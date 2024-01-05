@@ -16,7 +16,7 @@ timezone: Asia/Kolkata
 
 title: MrNiko # the main title
 
-tagline: Infosec Blog # it will display as the sub-title
+tagline: Red Teamer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
