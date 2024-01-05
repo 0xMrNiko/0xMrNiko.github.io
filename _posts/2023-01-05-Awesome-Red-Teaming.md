@@ -1,3 +1,10 @@
+---
+title: Mastering the Art of Red Teaming
+date: 2023-07-25 15:00:00 +1000
+categories: [RedTeam]
+tags: [windows, cobaltstrike, linux, payload] # TAG names should always be lowercase
+---
+
 **Reviews**
 
 > https://github.com/0xMrNiko/Awesome-Red-Teaming
