@@ -16,7 +16,8 @@ timezone: Asia/Kolkata
 
 title: MrNiko # the main title
 
-tagline: Cyber security, Red Teaming and CTF Blog's # it will display as the sub-title
+tagline: >- # it will display as the sub-title
+  Cyber security, Red Teaming and CTF Blog's
 
 description: >- # used by seo meta and the atom feed
   Infosec Blogs By Mr.Niko.
